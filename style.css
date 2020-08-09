@@ -3,7 +3,10 @@
     display: flex;
     justify-self: flex-end;
 }
-body{
-    background-color: black;
-    color: white;
+h1{
+    color:red;
+    background: blue;
+
+} 
+
 }
